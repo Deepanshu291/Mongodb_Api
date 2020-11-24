@@ -2,13 +2,13 @@
 This is Api Based on Mongodb which is  NoSQL type database.
 Thats my personal api.
  
- #for install.
+ # for install.
  npm i or npm install
  
- #for Start 
+ # for Start 
  npm start
  
- #troubleshoot on running
+ # troubleshoot on running
  npm i nodemon -g
  
  
